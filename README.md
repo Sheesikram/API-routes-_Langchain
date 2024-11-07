@@ -17,6 +17,7 @@ To get started with the project, you need the following installed:
 - Langchain
 - Ollama (for language model interactions)
 - dotenv (for loading environment variables)
+<img=![image](https://github.com/user-attachments/assets/cf23a49e-448b-42a1-9b92-adb5bd17a299)>
 
 ## Setup
 
